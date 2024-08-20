@@ -144,5 +144,3 @@ const Home = () => {
 }
 
 export default Home
-
-// Ei5GQ47mVP4MaAdzgAekaHR2umvxVaINvD12CYjB3K2HWX3O4jwM0BO3//
